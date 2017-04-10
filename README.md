@@ -4,7 +4,7 @@
 
 Before you go, just know how this works : it creates a (or several) folder(s) containing an image for each page of the PDF file(s), then zip it, then **rename it** to .cbz extension.
 
-It a transformation, not a conversion.
+It is a transformation, not a conversion.
 
 Because yes, renaming a .zip to a .cbz file (like a disrespectful brute) works perfectly. The resulting file will work on ebook 99% of the time.
 
