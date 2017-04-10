@@ -40,7 +40,7 @@ What mode do you want to use?
 
 1 - You have to specify the path to a single PDF file that will be converted
 
-2 - You will have to specify a folder containing the multiple PDF files to convert
+2 - You will have to specify a folder containing the multiple PDF files to convert (non .pdf or.PDF files will be ignored)
 
 ```
 Do you want to keep the images folder(s)?
